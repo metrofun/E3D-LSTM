@@ -4,7 +4,7 @@ This is an unofficial and partial PyTorch implementation of "Eidetic 3D LSTM: A 
 
 Implementeds E3D-LSTM and a trainer for traffic flow prediction on TaxiBJ dataset[2]
 
-![TaxiBJ](./taxiBJ.png)
+<img src="./taxibj" width="300" />
 
 ## Modifications
 * By default uses a cheaper "Scaled Dot-Product"[3] attention.
