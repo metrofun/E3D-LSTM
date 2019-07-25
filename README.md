@@ -12,7 +12,7 @@ Implementeds E3D-LSTM and a trainer for traffic flow prediction on TaxiBJ datase
 
 ## Installation
 
-1. [Download](https://github.com/lucktroy/DeepST/tree/master/data/TaxiBJ) TaxiBJ[4] dataset into `./data/` folder.
+1. [Download](https://github.com/lucktroy/DeepST/tree/master/data/TaxiBJ) TaxiBJ[2] dataset into `./data/` folder.
 2. Install dependencies from `Pipfile`. By default installs CPU-only Pytorch.
 
 ## Usage
